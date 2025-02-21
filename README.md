@@ -22,10 +22,6 @@ This project was generated using **Grok 3 AI** on **Grok.com** for a creative an
 ✅ **Simple & addictive** gameplay.  
 ✅ **AI-powered creation** with Grok 3.  
 
-## Play Now
-
-[🔗 Live Demo](#) *(Coming Soon!)*
-
 ## Credits
 
 Created by **[X: @Compressed_Game]**, inspired by **Elon Musk’s SpaceX, Tesla, and Dogecoin**.
