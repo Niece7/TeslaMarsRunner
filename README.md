@@ -12,7 +12,7 @@ This project was generated using **Grok 3 AI** on **Grok.com** for a creative an
 
 ## How to Play
 
-- Press **Space** to jump over obstacles (Starship rockets 🚀).
+- Press `Space` to jump over obstacles (Starship rockets 🚀).
 - Collect **Dogecoin** 🐶💰 to boost your score.
 - Survive as long as possible without crashing!
 
@@ -26,7 +26,10 @@ This project was generated using **Grok 3 AI** on **Grok.com** for a creative an
 
 ## Credits
 
-Created by **[X: @Compressed_Game]**, inspired by **Elon Musk’s SpaceX, Tesla, and Dogecoin**.
+Created by **[X: @Compressed_Game]**
+
+## Warning ⚠️
+This game is purely for entertainment purposes and does not reflect the views or affiliations of Tesla, SpaceX, or Dogecoin. It is a parody and should not be taken seriously.
 
 ---
 
