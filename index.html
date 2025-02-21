@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tesla Mars Runner</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="game-container">
+        <div id="mars-surface"></div>
+        <div id="earth"></div>
+        <div id="score">Score: 0</div>
+        <div id="car">
+            <img src="https://i.ibb.co/dwj03wGq/tesla.png" alt="Tesla Car">
+        </div>
+        <div id="title-screen">
+            <h1>Tesla Mars Runner</h1>
+            <p>Press Space to Start</p>
+        </div>
+        <div id="game-over">
+            <h1>Game Over!</h1>
+            <img id="game-over-gif" src="https://steamuserimages-a.akamaihd.net/ugc/966475254550793039/20B95C21E10FD7F17021A47AA56CFF0086041BCD/?imw=5000&imh=5000" alt="Game Over GIF">
+            <p>Your Score: <span id="final-score">0</span></p>
+            <p>Press Space to Restart</p>
+        </div>
+    </div>
+
+    <!-- Audio Elements -->
+    <audio id="background-music" loop>
+        <source src="https://www.myinstants.com/media/sounds/billyjean.mp3" type="audio/mpeg">
+    </audio>
+    <audio id="jump-sound">
+        <source src="https://www.myinstants.com/media/sounds/action_jump.mp3" type="audio/mpeg">
+    </audio>
+    <audio id="coin-sound">
+        <source src="https://www.myinstants.com/media/sounds/mario_coin_sound_1.mp3" type="audio/mpeg">
+    </audio>
+
+    <script src="script.js"></script>
+</body>
+</html>
