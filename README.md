@@ -2,7 +2,7 @@
 
 **A satirical take on Elon Musk's ventures!**
 
-![image](https://github.com/user-attachments/assets/a662567d-d6a9-4607-87e9-50b0a54e8c1d)
+![Tesla_Mars_Runner](https://github.com/user-attachments/assets/869b273d-514d-4770-a477-8139265f2530)
 
 ## About the Game
 
