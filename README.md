@@ -26,7 +26,7 @@ This project was generated using **Grok 3 AI** on **Grok.com** for a creative an
 
 ## Credits
 
-Created by **[X: @Compressed_Game]**
+Created by **[X:@Compressed_Game](https://x.com/Compressed_Game)**
 
 ## Warning ⚠️
 This game is purely for entertainment purposes and does not reflect the views or affiliations of Tesla, SpaceX, or Dogecoin. It is a parody and should not be taken seriously.
