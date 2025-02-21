@@ -2,6 +2,8 @@
 
 **A satirical take on Elon Musk's ventures!**
 
+![image](https://github.com/user-attachments/assets/a662567d-d6a9-4607-87e9-50b0a54e8c1d)
+
 ## About the Game
 
 Tesla Space Run is a fun, browser-based game inspired by the famous Chrome dinosaur game, but with a twist! You control a **Tesla Cybertruck** speeding through **outer space**, dodging SpaceX **Starship rockets**, and collecting **Dogecoin** to increase your score.
